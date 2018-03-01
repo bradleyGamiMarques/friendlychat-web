@@ -13,3 +13,6 @@ Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
 See [LICENSE](LICENSE)
+
+## How to run application
+Inside of the Webstorm terminal window run firebase deploy or firebase serve.
